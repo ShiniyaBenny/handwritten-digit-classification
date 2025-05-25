@@ -1,5 +1,5 @@
 # handwritten-digit-classification
-# Handwritten Digit Classification
+
 
 This project implements a multi-class image classification system to recognize handwritten digits (0-9) using a Convolutional Neural Network (CNN) on the MNIST dataset.
 
@@ -29,16 +29,10 @@ bash
 pip install -r requirements.txt
 2 .Run the script or notebook:
 
-bash
-Copy code
 python mnist_cnn.py
 
 Results
 Achieved test accuracy of ~98%.
 
-yaml
-Copy code
 
----
 
-If you want, I can generate the full Python script or J
